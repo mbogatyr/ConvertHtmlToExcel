@@ -2,3 +2,4 @@
 *.xlsx
 bin/
 obj/
+.DS_Store
